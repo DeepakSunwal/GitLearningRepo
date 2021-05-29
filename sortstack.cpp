@@ -47,6 +47,8 @@ int main()
 	s.push(-3);
 	sortstack();
 	displaystack();
+
+	cout<<"We remove file from staging area";
 	return 0;
 }
 
